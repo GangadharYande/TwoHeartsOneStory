@@ -1,0 +1,919 @@
+{
+  "total_photos": 71,
+  "chapters": {
+    "The beginning": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "The little things": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      33,
+      34,
+      35,
+      68
+    ],
+    "Your smile": [
+      19,
+      20,
+      22,
+      23,
+      24,
+      25,
+      36,
+      37,
+      41,
+      42,
+      51,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "Beautiful days": [
+      6,
+      7,
+      13,
+      14,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      40,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      69,
+      70,
+      71
+    ],
+    "Moonlit moments": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "By the water": [
+      40,
+      52,
+      53,
+      54,
+      55,
+      64,
+      65,
+      66,
+      67
+    ],
+    "Rainy days": [
+      61,
+      62,
+      63
+    ],
+    "Quiet portraits": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      33,
+      34,
+      35,
+      36,
+      37,
+      40,
+      41,
+      42,
+      51,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "Together": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      13,
+      14,
+      15,
+      16,
+      17,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      38,
+      39,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      69,
+      70,
+      71
+    ],
+    "Not the end": [
+      47,
+      48,
+      56,
+      57,
+      58,
+      59,
+      60,
+      69,
+      70,
+      71
+    ]
+  },
+  "photos": [
+    {
+      "photo": 1,
+      "source_file": "IMG-20260618-WA0006.jpg",
+      "enhanced_file": "images/memories/01.webp",
+      "thumbnail": "images/memories/01-thumb.webp",
+      "groups": [
+        "The beginning"
+      ]
+    },
+    {
+      "photo": 2,
+      "source_file": "IMG-20260919-WA0004.jpg",
+      "enhanced_file": "images/memories/02.webp",
+      "thumbnail": "images/memories/02-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 3,
+      "source_file": "IMG-20260919-WA0005.jpg",
+      "enhanced_file": "images/memories/03.webp",
+      "thumbnail": "images/memories/03-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 4,
+      "source_file": "IMG-20260919-WA0008.jpg",
+      "enhanced_file": "images/memories/04.webp",
+      "thumbnail": "images/memories/04-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 5,
+      "source_file": "IMG-20260919-WA0009.jpg",
+      "enhanced_file": "images/memories/05.webp",
+      "thumbnail": "images/memories/05-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 6,
+      "source_file": "IMG-20260919-WA0012.jpg",
+      "enhanced_file": "images/memories/06.webp",
+      "thumbnail": "images/memories/06-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 7,
+      "source_file": "IMG-20260919-WA0013.jpg",
+      "enhanced_file": "images/memories/07.webp",
+      "thumbnail": "images/memories/07-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 8,
+      "source_file": "IMG-20260919-WA0018.jpg",
+      "enhanced_file": "images/memories/08.webp",
+      "thumbnail": "images/memories/08-thumb.webp",
+      "groups": [
+        "The beginning"
+      ]
+    },
+    {
+      "photo": 9,
+      "source_file": "IMG-20260919-WA0020.jpg",
+      "enhanced_file": "images/memories/09.webp",
+      "thumbnail": "images/memories/09-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 10,
+      "source_file": "IMG-20260919-WA0021.jpg",
+      "enhanced_file": "images/memories/10.webp",
+      "thumbnail": "images/memories/10-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 11,
+      "source_file": "IMG-20260919-WA0022.jpg",
+      "enhanced_file": "images/memories/11.webp",
+      "thumbnail": "images/memories/11-thumb.webp",
+      "groups": [
+        "The beginning"
+      ]
+    },
+    {
+      "photo": 12,
+      "source_file": "IMG-20260919-WA0024.jpg",
+      "enhanced_file": "images/memories/12.webp",
+      "thumbnail": "images/memories/12-thumb.webp",
+      "groups": [
+        "The beginning"
+      ]
+    },
+    {
+      "photo": 13,
+      "source_file": "IMG-20260919-WA0027.jpg",
+      "enhanced_file": "images/memories/13.webp",
+      "thumbnail": "images/memories/13-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 14,
+      "source_file": "IMG-20260919-WA0028.jpg",
+      "enhanced_file": "images/memories/14.webp",
+      "thumbnail": "images/memories/14-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 15,
+      "source_file": "IMG-20260919-WA0034.jpg",
+      "enhanced_file": "images/memories/15.webp",
+      "thumbnail": "images/memories/15-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 16,
+      "source_file": "IMG-20260919-WA0036.jpg",
+      "enhanced_file": "images/memories/16.webp",
+      "thumbnail": "images/memories/16-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 17,
+      "source_file": "IMG-20260919-WA0037.jpg",
+      "enhanced_file": "images/memories/17.webp",
+      "thumbnail": "images/memories/17-thumb.webp",
+      "groups": [
+        "The beginning",
+        "Together"
+      ]
+    },
+    {
+      "photo": 18,
+      "source_file": "IMG20260305174551.jpg",
+      "enhanced_file": "images/memories/18.webp",
+      "thumbnail": "images/memories/18-thumb.webp",
+      "groups": [
+        "The little things",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 19,
+      "source_file": "IMG20260305174557.jpg",
+      "enhanced_file": "images/memories/19.webp",
+      "thumbnail": "images/memories/19-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 20,
+      "source_file": "IMG20260305174602.jpg",
+      "enhanced_file": "images/memories/20.webp",
+      "thumbnail": "images/memories/20-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 21,
+      "source_file": "IMG20260305174606.jpg",
+      "enhanced_file": "images/memories/21.webp",
+      "thumbnail": "images/memories/21-thumb.webp",
+      "groups": [
+        "The little things",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 22,
+      "source_file": "IMG20260305175123_01.jpg",
+      "enhanced_file": "images/memories/22.webp",
+      "thumbnail": "images/memories/22-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 23,
+      "source_file": "IMG20260305175130_01.jpg",
+      "enhanced_file": "images/memories/23.webp",
+      "thumbnail": "images/memories/23-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 24,
+      "source_file": "IMG20260305175136_01.jpg",
+      "enhanced_file": "images/memories/24.webp",
+      "thumbnail": "images/memories/24-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 25,
+      "source_file": "IMG20260305181459.jpg",
+      "enhanced_file": "images/memories/25.webp",
+      "thumbnail": "images/memories/25-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 26,
+      "source_file": "IMG20260305181624.jpg",
+      "enhanced_file": "images/memories/26.webp",
+      "thumbnail": "images/memories/26-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 27,
+      "source_file": "IMG20260305181643.jpg",
+      "enhanced_file": "images/memories/27.webp",
+      "thumbnail": "images/memories/27-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 28,
+      "source_file": "IMG20260312162948.jpg",
+      "enhanced_file": "images/memories/28.webp",
+      "thumbnail": "images/memories/28-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 29,
+      "source_file": "IMG20260323163755.jpg",
+      "enhanced_file": "images/memories/29.webp",
+      "thumbnail": "images/memories/29-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 30,
+      "source_file": "IMG20260323163822.jpg",
+      "enhanced_file": "images/memories/30.webp",
+      "thumbnail": "images/memories/30-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 31,
+      "source_file": "IMG20260530091346.jpg",
+      "enhanced_file": "images/memories/31.webp",
+      "thumbnail": "images/memories/31-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 32,
+      "source_file": "IMG20260530091632.jpg",
+      "enhanced_file": "images/memories/32.webp",
+      "thumbnail": "images/memories/32-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 33,
+      "source_file": "IMG20260605220050.jpg",
+      "enhanced_file": "images/memories/33.webp",
+      "thumbnail": "images/memories/33-thumb.webp",
+      "groups": [
+        "The little things",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 34,
+      "source_file": "IMG20260605220342.jpg",
+      "enhanced_file": "images/memories/34.webp",
+      "thumbnail": "images/memories/34-thumb.webp",
+      "groups": [
+        "The little things",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 35,
+      "source_file": "IMG20260605220350.jpg",
+      "enhanced_file": "images/memories/35.webp",
+      "thumbnail": "images/memories/35-thumb.webp",
+      "groups": [
+        "The little things",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 36,
+      "source_file": "IMG20260611204143.jpg",
+      "enhanced_file": "images/memories/36.webp",
+      "thumbnail": "images/memories/36-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Moonlit moments",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 37,
+      "source_file": "IMG20260611204231.jpg",
+      "enhanced_file": "images/memories/37.webp",
+      "thumbnail": "images/memories/37-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Moonlit moments",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 38,
+      "source_file": "IMG20260611204657.jpg",
+      "enhanced_file": "images/memories/38.webp",
+      "thumbnail": "images/memories/38-thumb.webp",
+      "groups": [
+        "Moonlit moments",
+        "Together"
+      ]
+    },
+    {
+      "photo": 39,
+      "source_file": "IMG20260611204717.jpg",
+      "enhanced_file": "images/memories/39.webp",
+      "thumbnail": "images/memories/39-thumb.webp",
+      "groups": [
+        "Moonlit moments",
+        "Together"
+      ]
+    },
+    {
+      "photo": 40,
+      "source_file": "IMG20260612160126.jpg",
+      "enhanced_file": "images/memories/40.webp",
+      "thumbnail": "images/memories/40-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "By the water",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 41,
+      "source_file": "IMG20260612163805.jpg",
+      "enhanced_file": "images/memories/41.webp",
+      "thumbnail": "images/memories/41-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 42,
+      "source_file": "IMG20260613182621.jpg",
+      "enhanced_file": "images/memories/42.webp",
+      "thumbnail": "images/memories/42-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 43,
+      "source_file": "IMG20260613183142.jpg",
+      "enhanced_file": "images/memories/43.webp",
+      "thumbnail": "images/memories/43-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 44,
+      "source_file": "IMG20260613183147.jpg",
+      "enhanced_file": "images/memories/44.webp",
+      "thumbnail": "images/memories/44-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 45,
+      "source_file": "IMG20260613183154.jpg",
+      "enhanced_file": "images/memories/45.webp",
+      "thumbnail": "images/memories/45-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 46,
+      "source_file": "IMG20260613183244.jpg",
+      "enhanced_file": "images/memories/46.webp",
+      "thumbnail": "images/memories/46-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 47,
+      "source_file": "IMG20260613183313.jpg",
+      "enhanced_file": "images/memories/47.webp",
+      "thumbnail": "images/memories/47-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 48,
+      "source_file": "IMG20260613184437.jpg",
+      "enhanced_file": "images/memories/48.webp",
+      "thumbnail": "images/memories/48-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 49,
+      "source_file": "IMG20260616181246.jpg",
+      "enhanced_file": "images/memories/49.webp",
+      "thumbnail": "images/memories/49-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 50,
+      "source_file": "IMG20260616181258.jpg",
+      "enhanced_file": "images/memories/50.webp",
+      "thumbnail": "images/memories/50-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together"
+      ]
+    },
+    {
+      "photo": 51,
+      "source_file": "IMG20260622174407.jpg",
+      "enhanced_file": "images/memories/51.webp",
+      "thumbnail": "images/memories/51-thumb.webp",
+      "groups": [
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 52,
+      "source_file": "IMG20260627113300.jpg",
+      "enhanced_file": "images/memories/52.webp",
+      "thumbnail": "images/memories/52-thumb.webp",
+      "groups": [
+        "By the water"
+      ]
+    },
+    {
+      "photo": 53,
+      "source_file": "IMG20260627113307.jpg",
+      "enhanced_file": "images/memories/53.webp",
+      "thumbnail": "images/memories/53-thumb.webp",
+      "groups": [
+        "By the water"
+      ]
+    },
+    {
+      "photo": 54,
+      "source_file": "IMG20260627113545.jpg",
+      "enhanced_file": "images/memories/54.webp",
+      "thumbnail": "images/memories/54-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "By the water",
+        "Together"
+      ]
+    },
+    {
+      "photo": 55,
+      "source_file": "IMG20260627113550.jpg",
+      "enhanced_file": "images/memories/55.webp",
+      "thumbnail": "images/memories/55-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "By the water",
+        "Together"
+      ]
+    },
+    {
+      "photo": 56,
+      "source_file": "IMG20260629185656.jpg",
+      "enhanced_file": "images/memories/56.webp",
+      "thumbnail": "images/memories/56-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 57,
+      "source_file": "IMG20260629185700.jpg",
+      "enhanced_file": "images/memories/57.webp",
+      "thumbnail": "images/memories/57-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 58,
+      "source_file": "IMG20260629185704.jpg",
+      "enhanced_file": "images/memories/58.webp",
+      "thumbnail": "images/memories/58-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 59,
+      "source_file": "IMG20260629185746.jpg",
+      "enhanced_file": "images/memories/59.webp",
+      "thumbnail": "images/memories/59-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 60,
+      "source_file": "IMG20260629185752.jpg",
+      "enhanced_file": "images/memories/60.webp",
+      "thumbnail": "images/memories/60-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 61,
+      "source_file": "IMG20260707161506.jpg",
+      "enhanced_file": "images/memories/61.webp",
+      "thumbnail": "images/memories/61-thumb.webp",
+      "groups": [
+        "Rainy days"
+      ]
+    },
+    {
+      "photo": 62,
+      "source_file": "IMG20260707161523.jpg",
+      "enhanced_file": "images/memories/62.webp",
+      "thumbnail": "images/memories/62-thumb.webp",
+      "groups": [
+        "Rainy days"
+      ]
+    },
+    {
+      "photo": 63,
+      "source_file": "IMG20260707161531.jpg",
+      "enhanced_file": "images/memories/63.webp",
+      "thumbnail": "images/memories/63-thumb.webp",
+      "groups": [
+        "Rainy days"
+      ]
+    },
+    {
+      "photo": 64,
+      "source_file": "IMG20260707170840.jpg",
+      "enhanced_file": "images/memories/64.webp",
+      "thumbnail": "images/memories/64-thumb.webp",
+      "groups": [
+        "Your smile",
+        "By the water",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 65,
+      "source_file": "IMG20260707170905.jpg",
+      "enhanced_file": "images/memories/65.webp",
+      "thumbnail": "images/memories/65-thumb.webp",
+      "groups": [
+        "Your smile",
+        "By the water",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 66,
+      "source_file": "IMG20260707170912.jpg",
+      "enhanced_file": "images/memories/66.webp",
+      "thumbnail": "images/memories/66-thumb.webp",
+      "groups": [
+        "Your smile",
+        "By the water",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 67,
+      "source_file": "IMG20260707170921.jpg",
+      "enhanced_file": "images/memories/67.webp",
+      "thumbnail": "images/memories/67-thumb.webp",
+      "groups": [
+        "Your smile",
+        "By the water",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 68,
+      "source_file": "IMG20260725170720.jpg",
+      "enhanced_file": "images/memories/68.webp",
+      "thumbnail": "images/memories/68-thumb.webp",
+      "groups": [
+        "The little things",
+        "Your smile",
+        "Quiet portraits"
+      ]
+    },
+    {
+      "photo": 69,
+      "source_file": "IMG20260801142627.jpg",
+      "enhanced_file": "images/memories/69.webp",
+      "thumbnail": "images/memories/69-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 70,
+      "source_file": "IMG20260801142709.jpg",
+      "enhanced_file": "images/memories/70.webp",
+      "thumbnail": "images/memories/70-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    },
+    {
+      "photo": 71,
+      "source_file": "file_00000000845882078485a4adae483433.png",
+      "enhanced_file": "images/memories/71.webp",
+      "thumbnail": "images/memories/71-thumb.webp",
+      "groups": [
+        "Beautiful days",
+        "Together",
+        "Not the end"
+      ]
+    }
+  ]
+}
